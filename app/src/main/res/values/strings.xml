@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PizzaDelivery</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="PizzaSize">
+        <item>Medium</item>
+        <item>Mini</item>
+        <item>Maxi</item>
+    </string-array>
+
+</resources>
